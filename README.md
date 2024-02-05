@@ -1,7 +1,7 @@
 LEON  HORNE
 ======
 
-<img src= "/headshot.jpeg" width='150'>
+<img src= "headshot.jpeg" width='150'>
 
 #### Graduate Student, Department of Geography & Planning, Appalachian State University
 ##### Boone, North Carolina, USA
